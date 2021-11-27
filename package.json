@@ -1,0 +1,19 @@
+{
+  "name": "desempeno",
+  "version": "1.0.0",
+  "description": "desempeno eva",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server -c -1."
+  },
+  "keywords": [
+    "desempeno",
+    "des",
+    "UTCV"
+  ],
+  "author": "14560@utcv.edu.mx",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
